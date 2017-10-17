@@ -4,7 +4,8 @@
 # of the Apache Software License. See the accompanying LICENSE file
 # for more information.
 #
-
+# License-Filename: tests/python_dependencies/impacket/LICENSE
+#
 from struct import pack, unpack, calcsize
 
 class Structure:

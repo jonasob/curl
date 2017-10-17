@@ -6,6 +6,8 @@
 #
 # Author: Alberto Solino (beto@coresecurity.com)
 #
+# License-Filename: tests/python_dependencies/impacket/LICENSE
+#
 # Description:
 #   SPNEGO functions used by SMB, SMB2/3 and DCERPC
 #

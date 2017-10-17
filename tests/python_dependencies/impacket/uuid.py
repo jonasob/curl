@@ -11,7 +11,8 @@
 # Author:
 #   Javier Kohen (jkohen)
 #
-
+# License-Filename: tests/python_dependencies/impacket/LICENSE
+#
 import re
 
 from random import randrange

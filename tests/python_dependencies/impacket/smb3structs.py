@@ -6,6 +6,8 @@
 #
 # Author: Alberto Solino (@agsolino)
 #
+# License-Filename: tests/python_dependencies/impacket/LICENSE
+#
 # Description:
 #   SMB 2 and 3 Protocol Structures and constants [MS-SMB2]
 #

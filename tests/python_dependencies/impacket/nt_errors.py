@@ -6,6 +6,8 @@
 #
 # Author: Alberto Solino (@agsolino)
 #
+# License-Filename: tests/python_dependencies/impacket/LICENSE
+#
 # Description:
 #   NT STATUS Errors from [MS-ERREF]. Ideally all the files
 #   should grab the error codes from here (big ToDo) 

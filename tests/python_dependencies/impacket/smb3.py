@@ -6,6 +6,8 @@
 #
 # Author: Alberto Solino (@agsolino)
 #
+# License-Filename: tests/python_dependencies/impacket/LICENSE
+#
 # Description:
 #   [MS-SMB2] Protocol Implementation (SMB2 and SMB3)
 #   As you might see in the code, it's implemented strictly following 

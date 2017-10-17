@@ -4,6 +4,8 @@
 # of the Apache Software License. See the accompanying LICENSE file
 # for more information.
 #
+# License-Filename: tests/python_dependencies/impacket/LICENSE
+#
 # Copyright (C) 2001 Michael Teo <michaelteo@bigfoot.com>
 # smb.py - SMB/CIFS library
 #

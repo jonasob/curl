@@ -6,6 +6,8 @@
 #
 # Author: Alberto Solino (@agsolino)
 #
+# License-Filename: tests/python_dependencies/impacket/LICENSE
+#
 # TODO:
 # [-] Functions should return NT error codes
 # [-] Handling errors in all situations, right now it's just raising exceptions.
