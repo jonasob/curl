@@ -18,6 +18,9 @@
  * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
  * KIND, either express or implied.
  *
+ * License-Filename: COPYING
+ * SPDX-License-Identifier: curl
+ *
  * RFC1734 POP3 Authentication
  * RFC1939 POP3 protocol
  * RFC2195 CRAM-MD5 authentication

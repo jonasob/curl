@@ -18,6 +18,9 @@
  * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
  * KIND, either express or implied.
  *
+ * License-Filename: COPYING
+ * SPDX-License-Identifier: curl
+ *
  * RFC1870 SMTP Service Extension for Message Size
  * RFC2195 CRAM-MD5 authentication
  * RFC2831 DIGEST-MD5 authentication

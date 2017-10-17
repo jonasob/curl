@@ -19,6 +19,9 @@
 # This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
 # KIND, either express or implied.
 #
+# License-Filename: COPYING
+# SPDX-License-Identifier: curl
+#
 ###########################################################################
 
 # Yeah, I know, probably 1000 other persons already wrote a script like

@@ -19,6 +19,9 @@
 # This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
 # KIND, either express or implied.
 #
+# License-Filename: COPYING
+# SPDX-License-Identifier: curl
+#
 #***************************************************************************
 
 # This is the HTTPS, FTPS, POP3S, IMAPS, SMTPS, server used for curl test

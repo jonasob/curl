@@ -18,6 +18,9 @@
 # * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
 # * KIND, either express or implied.
 # *
+# * License-Filename: COPYING
+# * SPDX-License-Identifier: curl
+# *
 # ***************************************************************************
 # awk script which fetches curl function symbols from public header input
 # files and write them to STDOUT. Here you can get an awk version for Win32:

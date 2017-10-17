@@ -19,6 +19,9 @@
 # * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
 # * KIND, either express or implied.
 # *
+# * License-Filename: COPYING
+# * SPDX-License-Identifier: curl
+# *
 # ***************************************************************************
 
 my $version="7.41.0";
@@ -47,6 +50,9 @@ print <<HEADER
 .\\" *
 .\\" * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
 .\\" * KIND, either express or implied.
+.\\" *
+.\\" * License-Filename: COPYING
+.\\" * SPDX-License-Identifier: curl
 .\\" *
 .\\" **************************************************************************
 .TH libcurl-symbols 3 "$date" "libcurl $version" "libcurl symbols"

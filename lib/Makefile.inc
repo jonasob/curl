@@ -18,6 +18,9 @@
 # This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
 # KIND, either express or implied.
 #
+# License-Filename: COPYING
+# SPDX-License-Identifier: curl
+#
 ###########################################################################
 
 LIB_VAUTH_CFILES = vauth/vauth.c vauth/cleartext.c vauth/cram.c         \

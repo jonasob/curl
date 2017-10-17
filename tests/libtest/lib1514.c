@@ -18,6 +18,9 @@
  * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
  * KIND, either express or implied.
  *
+ * License-Filename: COPYING
+ * SPDX-License-Identifier: curl
+ *
  ***************************************************************************/
 /*
  * Make sure libcurl does not send a `Content-Length: -1` header when HTTP POST

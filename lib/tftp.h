@@ -20,6 +20,9 @@
  * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
  * KIND, either express or implied.
  *
+ * License-Filename: COPYING
+ * SPDX-License-Identifier: curl
+ *
  ***************************************************************************/
 #ifndef CURL_DISABLE_TFTP
 extern const struct Curl_handler Curl_handler_tftp;
