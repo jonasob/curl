@@ -1,0 +1,281 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: tests/certs/* tests/stunnel.pem
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: tests/fuzz/curl_fuzz_data/*
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: tests/data/*
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: docs/cmdline-opts/*
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: winbuild/gen_resp_file.bat winbuild/BUILD.WINDOWS.txt
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: README.md GIT-INFO CHANGES MacOSX-Framework RELEASE-NOTES 
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: .mailmap appveyor.yml .travis.yml .dir-locals.el
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: CMake/* 
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: src/makefile.amiga src/CMakeLists.txt src/Makefile.inc
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: include/Makefile.am include/README
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: winbuild/gen_resp_file.bat winbuild/BUILD.WINDOWS.txt
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: src/macos/curl.mcp.xml.sit.hqx src/macos/MACINSTALL.TXT src/macos/src/curl_GUSIConfig.cpp src/macos/src/macos_main.cpp
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: lib/libcurl.plist lib/makefile.amiga lib/CMakeLists.txt lib/libcurl.vers.in lib/curl_config.h.cmake lib/Makefile.vxworks
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: tests/FILEFORMAT tests/CMakeLists.txt tests/valgrind.supp tests/README
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: tests/server/CMakeLists.txt tests/server/base64.pl tests/server/Makefile.inc
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: tests/libtest/test613.pl tests/libtest/CMakeLists.txt tests/libtest/test1013.pl tests/libtest/notexists.pl tests/libtest/Makefile.inc tests/libtest/test307.pl tests/libtest/test610.pl tests/libtest/test75.pl tests/libtest/test1022.pl
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: tests/unit/CMakeLists.txt tests/unit/README
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: tests/fuzz/README
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: packages/vms/build_vms.com packages/vms/macro32_exactcase.patch packages/vms/curlmsg.sdl packages/vms/readme packages/vms/curl_release_note_start.txt packages/vms/curlmsg.msg
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: packages/Android/Android.mk
+Copyright: 2011, Dan Fandrich
+License: curl
+
+Files: packages/EPM/Makefile.am packages/EPM/curl.list.in packages/EPM/README
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: packages/Solaris/Makefile.am
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: packages/Win32/cygwin/Makefile.am packages/Win32/cygwin/README packages/Win32/Makefile.am packages/Win32/README
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: packages/AIX/Makefile.am packages/AIX/RPM/Makefile.am packages/AIX/RPM/curl.spec.in packages/AIX/RPM/README
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: packages/Symbian/readme.txt packages/Symbian/group/curl.mmp packages/Symbian/group/libcurl.mmp packages/Symbian/group/bld.inf packages/Symbian/group/libcurl.pkg packages/Symbian/group/curl.pkg packages/Symbian/group/libcurl.iby packages/Symbian/group/curl.iby packages/Symbian/bwins/libcurlu.def packages/Symbian/eabi/libcurlu.def
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: packages/Linux/Makefile.am packages/Linux/RPM/Makefile.am packages/Linux/RPM/curl.spec.in packages/Linux/RPM/make_curl_rpm packages/Linux/RPM/README packages/Linux/RPM/curl-ssl.spec.in
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: packages/Makefile.am packages/README packages/DOS/README packages/OS400/README.OS400
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/wolfssl_override.props projects/wolfssl_options.h projects/README
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/Windows/VC6/src/curl.tmpl projects/Windows/VC6/src/curl.dsw projects/Windows/VC6/lib/libcurl.tmpl projects/Windows/VC6/lib/libcurl.dsw projects/Windows/VC6/curl-all.dsw
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/Windows/VC12/src/curl.sln projects/Windows/VC12/src/curl.vcxproj.filters projects/Windows/VC12/src/curl.tmpl projects/Windows/VC12/lib/libcurl.vcxproj.filters projects/Windows/VC12/lib/libcurl.sln projects/Windows/VC12/lib/libcurl.tmpl projects/Windows/VC12/curl-all.sln
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/Windows/VC11/src/curl.sln projects/Windows/VC11/src/curl.vcxproj.filters projects/Windows/VC11/src/curl.tmpl projects/Windows/VC11/lib/libcurl.vcxproj.filters projects/Windows/VC11/lib/libcurl.sln projects/Windows/VC11/lib/libcurl.tmpl projects/Windows/VC11/curl-all.sln
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/Windows/VC9/src/curl.sln projects/Windows/VC9/src/curl.tmpl projects/Windows/VC9/lib/libcurl.sln projects/Windows/VC9/lib/libcurl.tmpl projects/Windows/VC9/curl-all.sln
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/Windows/VC14/src/curl.sln projects/Windows/VC14/src/curl.vcxproj.filters projects/Windows/VC14/src/curl.tmpl projects/Windows/VC14/lib/libcurl.vcxproj.filters projects/Windows/VC14/lib/libcurl.sln projects/Windows/VC14/lib/libcurl.tmpl projects/Windows/VC14/curl-all.sln
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/Windows/VC8/src/curl.sln projects/Windows/VC8/src/curl.tmpl projects/Windows/VC8/lib/libcurl.sln projects/Windows/VC8/lib/libcurl.tmpl projects/Windows/VC8/curl-all.sln
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/Windows/VC7/src/curl.sln  projects/Windows/VC7/src/curl.tmpl projects/Windows/VC7/lib/libcurl.sln projects/Windows/VC7/lib/libcurl.tmpl projects/Windows/VC7/curl-all.sln
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/Windows/VC7.1/src/curl.sln projects/Windows/VC7.1/src/curl.tmpl projects/Windows/VC7.1/lib/libcurl.sln projects/Windows/VC7.1/lib/libcurl.tmpl projects/Windows/VC7.1/curl-all.sln
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: projects/Windows/VC10/src/curl.sln projects/Windows/VC10/src/curl.vcxproj.filters projects/Windows/VC10/src/curl.tmpl projects/Windows/VC10/lib/libcurl.vcxproj.filters projects/Windows/VC10/lib/libcurl.sln  projects/Windows/VC10/lib/libcurl.tmpl projects/Windows/VC10/curl-all.sln
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: docs/TODO docs/HISTORY.md docs/README.md docs/TheArtOfHttpScripting docs/CIPHERS.md docs/RELEASE-PROCEDURE docs/CMakeLists.txt docs/HELP-US.md docs/CODE_OF_CONDUCT.md docs/FAQ docs/ROADMAP.md docs/THANKS-filter docs/README.cmake docs/SSLCERTS.md docs/INSTALL.md docs/THANKS docs/README.win32 docs/RESOURCES docs/BINDINGS.md docs/LICENSE-MIXING.md docs/KNOWN_BUGS docs/SSL-PROBLEMS.md docs/MANUAL docs/BUGS docs/README.netware docs/CHECKSRC.md docs/HTTP2.md docs/CODE_STYLE.md docs/SECURITY.md docs/MAIL-ETIQUETTE docs/INSTALL docs/INTERNALS.md docs/CONTRIBUTE.md docs/HTTP-COOKIES.md docs/VERSIONS docs/FEATURES docs/INSTALL.cmake
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: docs/libcurl/getinfo-times docs/libcurl/curl_multi_socket_all.3 docs/libcurl/index.html docs/libcurl/symbols-in-versions docs/libcurl/curl_strnequal.3 docs/libcurl/ABI
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: docs/examples/README
+Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
+License: curl
+
+Files: src/macos/src/macos_main.cpp
+Copyright: Copyright (C) 2001 Eric Lavigne
+License: other
+ Permission is granted to anyone to use this software for any purpose on any
+ computer system, and to redistribute it freely, subject to the following
+ restrictions:
+ .
+ - The author is not responsible for the consequences of use of this
+   software, no matter how awful, even if they arise from defects in it.
+ - The origin of this software must not be misrepresented, either by
+   explicit claim or by omission.                                          
+ - You are allowed to distributed modified copies of the software, in source
+   and binary form, provided they are marked plainly as altered versions, and
+   are not misrepresented as being the original software.
+
+Files: docs/examples/fopen.c
+Copyright: Copyright (c) 2003, 2017 Simtec Electronics
+License: other
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+ .
+ 1. Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+ 2. Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+ 3. The name of the author may not be used to endorse or promote products
+    derived from this software without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+ IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+ IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+ INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+ NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Files: docs/examples/curlx.c
+Copyright: 2003, The OpenEvidence Project
+License: other
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+ .
+ 1. Redistributions of source code must retain the above copyright
+    notice, this list of conditions, the following disclaimer,
+    and the original OpenSSL and SSLeay Licences below.
+ .
+ 2. Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions, the following disclaimer
+    and the original OpenSSL and SSLeay Licences below in
+    the documentation and/or other materials provided with the
+    distribution.
+ .
+ 3. All advertising materials mentioning features or use of this
+    software must display the following acknowledgments:
+    "This product includes software developed by the Openevidence Project
+    for use in the OpenEvidence Toolkit. (http://www.openevidence.org/)"
+    This product includes software developed by the OpenSSL Project
+    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+    This product includes cryptographic software written by Eric Young
+    (eay@cryptsoft.com).  This product includes software written by Tim
+    Hudson (tjh@cryptsoft.com)."
+ .
+ 4. The names "OpenEvidence Toolkit" and "OpenEvidence Project" must not be
+    used to endorse or promote products derived from this software without
+    prior written permission. For written permission, please contact
+    openevidence-core@openevidence.org.
+ .
+ 5. Products derived from this software may not be called "OpenEvidence"
+    nor may "OpenEvidence" appear in their names without prior written
+    permission of the OpenEvidence Project.
+ .
+ 6. Redistributions of any form whatsoever must retain the following
+    acknowledgments:
+    "This product includes software developed by the OpenEvidence Project
+    for use in the OpenEvidence Toolkit (http://www.openevidence.org/)
+    This product includes software developed by the OpenSSL Project
+    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+    This product includes cryptographic software written by Eric Young
+    (eay@cryptsoft.com).  This product includes software written by Tim
+    Hudson (tjh@cryptsoft.com)."
+ .
+ THIS SOFTWARE IS PROVIDED BY THE OpenEvidence PROJECT ``AS IS'' AND ANY
+ EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+ PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenEvidence PROJECT OR
+ ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+ NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ OF THE POSSIBILITY OF SUCH DAMAGE.
+
+License: curl
+ All rights reserved.
+ .
+ Permission to use, copy, modify, and distribute this software for any purpose
+ with or without fee is hereby granted, provided that the above copyright
+ notice and this permission notice appear in all copies.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN
+ NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+ OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+ OR OTHER DEALINGS IN THE SOFTWARE.
+ .
+ Except as contained in this notice, the name of a copyright holder shall not
+ be used in advertising or otherwise to promote the sale, use or other dealings
+ in this Software without prior written authorization of the copyright holder.
+ 
