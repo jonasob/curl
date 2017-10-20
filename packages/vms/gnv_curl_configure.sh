@@ -19,6 +19,8 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
 # OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #
+# SPDX-License-Identifier: ISC
+#
 # 06-Jun-2009	J. Malmberg
 # 28-Dec-2012	J. Malmberg	Update for Bash 4.2.39
 #==========================================================================

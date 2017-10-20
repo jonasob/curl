@@ -1,5 +1,8 @@
 #!/usr/bin/perl
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 # Generate ZSH completion
 
 use strict;

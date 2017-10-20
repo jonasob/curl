@@ -1,4 +1,6 @@
 #***************************************************************************
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
 #***************************************************************************
 
 # File version for 'aclocal' use. Keep it a single number.

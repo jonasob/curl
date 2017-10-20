@@ -19,6 +19,7 @@ $!
 $!
 $! 16-Dec-2014	J. Malmberg
 $!
+$! SPDX-License-Identifier: ISC
 $!===========================================================================
 $!
 $! Skip this if the curl-config. already exists.

@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 #
 # Simple script which generates corpus files.
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 import argparse
 import logging
 import corpus

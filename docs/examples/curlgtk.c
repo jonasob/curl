@@ -6,6 +6,9 @@
  *                             \___|\___/|_| \_\_____|
  *
  *  Copyright (c) 2000 David Odin (aka DindinX) for MandrakeSoft
+ * 
+ *  SPDX-License-Identifier: curl
+ *  License-Filename: COPYING
  */
 /* <DESC>
  * use the libcurl in a gtk-threaded application

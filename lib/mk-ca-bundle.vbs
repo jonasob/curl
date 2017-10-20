@@ -18,6 +18,9 @@
 '* This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
 '* KIND, either express or implied.
 '*
+'* SPDX-License-Identifier: curl
+'* License-Filename: COPYING
+'*
 '***************************************************************************
 '* Script to fetch certdata.txt from Mozilla.org site and create a
 '* ca-bundle.crt for use with OpenSSL / libcurl / libcurl bindings

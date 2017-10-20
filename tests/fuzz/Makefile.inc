@@ -1,3 +1,7 @@
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 FUZZPROGS = curl_fuzzer
 FUZZLIBS = libstandaloneengine.a
 

@@ -4,6 +4,9 @@
 #
 #
 #       This is a shell script since make is not a standard component of OS/400.
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
 
 SCRIPTDIR=`dirname "${0}"`
 . "${SCRIPTDIR}/initscript.sh"

@@ -29,6 +29,8 @@
 ! ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
 ! OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 !
+! SPDX-License-Identifier: ISC
+!
 ! 15-Jun-2009  J. Malmberg
 !============================================================================
 [gnv.usr.bin]curl. -> [gnv.usr.bin]gnv$curl.exe

@@ -42,6 +42,8 @@ $! WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 $! ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
 $! OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 $!
+$! SPDX-License-Identifier: ISC
+$!
 $! 15-Jan-2001	J. Malmberg	Original
 $! 29-Apr-2001	J. Malmberg	Also look for config.*in* in a [.include]
 $!				subdirectory

@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 """ A telnet server which negotiates"""
 
 from __future__ import (absolute_import, division, print_function,

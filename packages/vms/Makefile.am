@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
 EXTRA_DIST = \
  backup_gnv_curl_src.com \
  build_curl-config_script.com \

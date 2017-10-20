@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 #
 # Common corpus functions
+# 
+# SPDX-License-Filename: curl
+# License-Filename: COPYING
+#
 import logging
 import struct
 log = logging.getLogger(__name__)

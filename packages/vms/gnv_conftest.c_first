@@ -16,6 +16,7 @@
  * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
  * OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  *
+ * SPDX-License-Identifier: ISC
  */
 
 /* This is needed for Configure tests to get the correct exit status */

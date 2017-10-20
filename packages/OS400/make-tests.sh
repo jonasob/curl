@@ -2,6 +2,8 @@
 #
 #       tests compilation script for the OS/400.
 #
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
 
 
 SCRIPTDIR=`dirname "${0}"`

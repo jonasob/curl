@@ -1,5 +1,8 @@
 # Shared between Makefile.am and CMakeLists.txt
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 man_MANS =                                      \
   CURLINFO_ACTIVESOCKET.3                       \
   CURLINFO_APPCONNECT_TIME.3                    \

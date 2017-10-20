@@ -4,6 +4,9 @@
 #                                                                     #
 #  DESCRIPTION.....    This is the makefile for libcurl.              #
 #                                                                     #
+# SPDX-License-Identifier: curl                                       #
+# License-Filename: COPYING                                           #
+#                                                                     #
 #######################################################################
 
 APP := CURL

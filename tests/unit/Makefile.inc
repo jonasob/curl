@@ -1,5 +1,8 @@
 # these files are used in every single unit test program
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 UNITFILES = curlcheck.h \
  ../libtest/test.h \
  ../libtest/first.c

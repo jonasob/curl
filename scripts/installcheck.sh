@@ -1,5 +1,8 @@
 #!/bin/bash
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 PREFIX=$1
 
 # Run this script in the root of the git clone. Point out the install prefix

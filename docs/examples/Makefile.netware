@@ -4,6 +4,9 @@
 ## Use: make -f Makefile.netware
 ##
 ## Comments to: Guenter Knauf http://www.gknw.net/phpbb
+##
+## SPDX-License-Identifier: curl
+## License-Filename: COPYING
 #
 #################################################################
 

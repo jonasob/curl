@@ -1,5 +1,8 @@
 # Shared between Makefile.am and CMakeLists.txt
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 man_MANS = curl_easy_cleanup.3 curl_easy_getinfo.3 curl_easy_init.3      \
   curl_easy_perform.3 curl_easy_setopt.3 curl_easy_duphandle.3           \
   curl_formadd.3 curl_formfree.3 curl_getdate.3 curl_getenv.3            \

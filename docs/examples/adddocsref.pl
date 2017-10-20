@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 # pass files as argument(s)
 
 my $docroot="https://curl.haxx.se/libcurl/c";

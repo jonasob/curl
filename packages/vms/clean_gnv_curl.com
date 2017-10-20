@@ -31,6 +31,8 @@ $! OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 $!
 $!
 $! 07-Jul-2009	J. Malmberg
+$!
+$! SPDX-License-Identifier: ISC
 $!============================================================================
 $!
 $! Save this so we can get back.

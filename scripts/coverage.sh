@@ -1,5 +1,8 @@
 #!/bin/sh
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 ./buildconf
 mkdir -p cvr
 cd cvr

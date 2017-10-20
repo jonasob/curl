@@ -14,6 +14,8 @@ From File: curl_gnv_build_steps.txt
  ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
  OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
+ SPDX-License-Identifier: ISC
+
 Currently building Curl using GNV takes longer than building Curl via DCL.
 The GNV procedure actually uses the same configure and makefiles that
 Unix builds use.

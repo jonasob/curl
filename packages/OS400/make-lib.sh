@@ -2,7 +2,9 @@
 #
 #       libcurl compilation script for the OS/400.
 #
-
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 SCRIPTDIR=`dirname "${0}"`
 . "${SCRIPTDIR}/initscript.sh"
 cd "${TOPDIR}/lib"

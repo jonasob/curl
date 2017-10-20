@@ -1,5 +1,8 @@
 #!/usr/bin/perl
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 # git log --pretty=fuller --no-color --date=short --decorate=full
 
 my @mname = ('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',

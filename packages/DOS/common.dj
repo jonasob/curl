@@ -6,7 +6,10 @@
 # Requires sed, yacc, rm and the usual stuff.
 #
 # Define TOPDIR before including this file.
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
+#
 .SUFFIXES: .exe .y
 
 MAKEFILE = Makefile.dj

@@ -1,5 +1,7 @@
 #!/bin/sh
-
+#
+# SPDX-License-Identifier: curl
+# License-Filename: COPYING
 
 setenv()
 

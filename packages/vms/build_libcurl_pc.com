@@ -21,6 +21,7 @@ $!
 $!
 $! 15-Jun-2013  J. Malmberg
 $!
+$! SPDX-License-Identifier: ISC
 $!===========================================================================
 $!
 $! Skip this if the libcurl.pc already exists.
