@@ -1,5 +1,9 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
+Files: lib/md4.c
+Copyright: Copyright (c) 2001 Solar Designer <solar@openwall.com>
+License: public-domain
+
 Files: tests/certs/* tests/stunnel.pem
 Copyright: Copyright (c) 1996 - 2017, Daniel Stenberg, <daniel@haxx.se>
 License: curl
