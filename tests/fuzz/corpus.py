@@ -2,7 +2,7 @@
 #
 # Common corpus functions
 # 
-# SPDX-License-Filename: curl
+# SPDX-License-Identifier: curl
 # License-Filename: COPYING
 #
 import logging

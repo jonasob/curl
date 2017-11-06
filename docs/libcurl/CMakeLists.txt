@@ -1,6 +1,6 @@
 # Load man_MANS from shared file
 #
-# SPDX-License-Filename: curl
+# SPDX-License-Identifier: curl
 # License-Filename: COPYING
 #
 transform_makefile_inc("Makefile.inc" "${CMAKE_CURRENT_BINARY_DIR}/Makefile.inc.cmake")
